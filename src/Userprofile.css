@@ -1,0 +1,84 @@
+.user_profile
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+}
+.initial_data{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.initial_data h1{
+    font-size: 60px;
+    font-family: "Poppins";
+    font-weight: 700;
+}
+.Navigator
+{
+    display: flex;
+    flex-direction: row;
+    padding-top: 30px;
+}
+.nav_comp
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.nav_comp a
+{
+    border: 1px solid rgb(185, 180, 180);
+    border-radius: 100%;
+    width: 40px;
+    height: 40px;
+    padding-left: 13px;
+    padding-top: 8px;
+    background-color:rgb(185, 180, 180) ;
+}
+.nav_comp h3
+{
+    font-size: 15px;
+    font-weight: 600;
+}
+.nav_line
+{
+    border: 1px solid rgb(185, 180, 180);
+    width: 130px;
+    margin-top: 20px;
+    height: 1px;
+    align-items: center;
+}
+.last_data
+{
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+
+
+/* User - Data */
+
+.user_data
+{
+    border: 1px solid black;
+}
+
+
+
+
+
+
+/* Basic_details */
+
+.basic_details
+{
+    border: 1px solid black;
+}
