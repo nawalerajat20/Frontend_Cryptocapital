@@ -22,22 +22,22 @@ const Footer = () => {
         </div>
         <div className='section2'>
           <div className='link'>
-            <span>Resource</span> <br /> <br />
+            <span>Resource</span>  <br />
             <Link className='link-text' to='/'>Get Started</Link> <br />
             <Link className='link-text' to='/features'>Features</Link> <br />
-            <Link className='link-text' to='/blogs'>Blogs</Link> <br />
+            {/* <Link className='link-text' to='/blogs'>Blogs</Link> <br /> */}
             <Link className='link-text' to='faqs'>FAQ's</Link> <br />
             <Link className='link-text' to='privacy'>Privacy Policy</Link>
           </div>
           <div className='link'>
-            <span>Crypto</span> <br /> <br />
+            <span>Crypto</span>  <br />
             <Link className='link-text' to='/trends'>Trends</Link> <br />
             <Link className='link-text' to='/cryptoinfo'>Cryprocurrency</Link> <br />
             <Link className='link-text' to='/predictions'>Prediction</Link> <br />
-            <Link className='link-text' to='/news'>News</Link>
+            {/* <Link className='link-text' to='/news'>News</Link> */}
           </div>
           <div className='link'>
-            <span>Support</span> <br /> <br />
+            <span>Support</span>  <br />
             <Link className='link-text' to='/contact'>Contact Us</Link> <br />
             <Link className='link-text' to='/report_a_bug'>Report a bug</Link> <br />
             <Link className='link-text' to='/request_a_feature'>Request a feature</Link> <br />

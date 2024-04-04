@@ -24,14 +24,14 @@ body{
 }
 h2
 {
-    font-size: 40px;
+    font-size: 30px;
     font-weight: 800;
     line-height: 60px;
     text-align: center;
     margin-bottom: 10px;
 }
 .sym{
-    font-size: 30px;
+    font-size: 25px;
     font-weight: 800;
     line-height: 60px;
     text-align: center;
@@ -47,7 +47,7 @@ h2
     margin-top: 100px;
 }
 .card3{
-    flex: 0 0 calc(33.33% - 20px);
+    flex: 0 0 calc(33.33% - 90px);
     max-width: calc(33.33% - 20px);
     width: 100%;
     display: flex;
@@ -62,7 +62,7 @@ h2
 
 }
 .crypto_sym{
-    width: 30%;
+    width: 25%;
     padding-top: 50px;
     padding-bottom: 50px;
 }
@@ -70,7 +70,7 @@ h2
 .web{
     border: none;
     margin-bottom: 30px;
-    width: 50%;
+    width: 45%;
     font-size: 18px;
     font-weight: 600;
     display: flex;

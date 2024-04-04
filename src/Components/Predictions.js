@@ -6,7 +6,9 @@ function Predictions() {
         <div>
             <div className='heading5'>
                 <h1>CryptoCurrencies</h1>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, nobis distinctio laborum fuga, officia quia porro tenetur, minus molestias veritatis ipsum voluptate quod ad quibusdam voluptas eum nesciunt architecto perferendis ducimus quis adipisci! Quae iusto blanditiis esse magni consequuntur inventore, ut consectetur deserunt non sapiente, odio modi earum impedit qui doloribus necessitatibus nulla officiis ex tempore perspiciatis sed alias. Ducimus numquam error nulla corporis laudantium natus exercitationem, recusandae, doloribus quaerat neque doloremque id ipsa adipisci nobis voluptatibus odio illum. In, sequi iusto illum porro architecto at aperiam numquam adipisci cumque quo possimus quasi quaerat reiciendis molestias sint, ullam saepe libero?</p>
+                <p>Cryptocurrency is a digital payment system that doesn't rely on banks to verify transactions. It’s a peer-to-peer system that can enable anyone anywhere to send and receive payments. Instead of being physical money carried around and exchanged in the real world, cryptocurrency payments exist purely as digital entries to an online database describing specific transactions. When you transfer cryptocurrency funds, the transactions are recorded in a public ledger. Cryptocurrency is stored in digital wallets.
+
+Cryptocurrency received its name because it uses encryption to verify transactions. This means advanced coding is involved in storing and transmitting cryptocurrency data between wallets and to public ledgers. The aim of encryption is to provide security and safety.</p>
             </div>
             <Table/>
         </div>
