@@ -23,7 +23,7 @@ const Report_a_bug = () => {
     };
     
     const response = await UserInput(userObject);
-    if (response.status == 201) {
+    if (response.status === 201) {
       console.log(response);
     } else {
       console.log("failed ");
